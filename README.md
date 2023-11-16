@@ -11,6 +11,7 @@
 
 
 <h2>My Information</h2>
+email : nari1919@naver.com
 <!--
 **kimnari1073/kimnari1073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
