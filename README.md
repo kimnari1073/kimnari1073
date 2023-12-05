@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+nari's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?text=Welcom%20%to%20%nari's%20%Github!&animation=blink&fontSize=50&type=cylinder&color=auto)
 
-<h2> My tech stack 📒</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=My+Tech+Stack+📒&font=Roboto&size=24)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5%logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -11,13 +11,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=My+Infomation+💬&font=Roboto&size=24)](https://git.io/typing-svg)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnari1073&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimnari1073&theme=tokyonight&show_icons=true" width=50% />
+</a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kimnari1073&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h2>My Information</h2>
-email : nari1919@naver.com<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnari1073&show_icons=true&theme=default)
 <!--
 **kimnari1073/kimnari1073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
