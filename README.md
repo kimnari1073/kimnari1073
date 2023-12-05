@@ -16,10 +16,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=My+Infomation+💬&font=Roboto&size=24)](https://git.io/typing-svg)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnari1073&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnari1073&layout=compact&theme=tokyonight" width=49% />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimnari1073&theme=tokyonight&show_icons=true" width=50% />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimnari1073&theme=tokyonight&show_icons=true" width=49% />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kimnari1073&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
